@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496972788 source:/Users/ConnerStrahan/Desktop/CProjects/AndOperation/main.c
+	<stdio.h>
+	<stdlib.h>
+

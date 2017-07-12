@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497477248 source:/Users/ConnerStrahan/Desktop/CProjects/Continueloop/main.c
+	<stdio.h>
+	<stdlib.h>
+

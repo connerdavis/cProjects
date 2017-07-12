@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496006715 source:/Users/ConnerStrahan/Desktop/CProjects/Integerexercise/main.c
+	<stdio.h>
+	<stdlib.h>
+

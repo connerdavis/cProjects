@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496976756 source:/Users/ConnerStrahan/Desktop/CProjects/TaxProject2nd/main.c
+	<stdio.h>
+	<stdlib.h>
+
